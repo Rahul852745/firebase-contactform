@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/firebase-contactform/static/css/main.2c7a8183.chunk.css",
+    "main.js": "/firebase-contactform/static/js/main.c32bbb80.chunk.js",
+    "main.js.map": "/firebase-contactform/static/js/main.c32bbb80.chunk.js.map",
+    "runtime-main.js": "/firebase-contactform/static/js/runtime-main.6acd7807.js",
+    "runtime-main.js.map": "/firebase-contactform/static/js/runtime-main.6acd7807.js.map",
+    "static/js/2.b1343e6d.chunk.js": "/firebase-contactform/static/js/2.b1343e6d.chunk.js",
+    "static/js/2.b1343e6d.chunk.js.map": "/firebase-contactform/static/js/2.b1343e6d.chunk.js.map",
+    "static/js/3.b8958723.chunk.js": "/firebase-contactform/static/js/3.b8958723.chunk.js",
+    "static/js/3.b8958723.chunk.js.map": "/firebase-contactform/static/js/3.b8958723.chunk.js.map",
+    "index.html": "/firebase-contactform/index.html",
+    "static/css/main.2c7a8183.chunk.css.map": "/firebase-contactform/static/css/main.2c7a8183.chunk.css.map",
+    "static/js/2.b1343e6d.chunk.js.LICENSE.txt": "/firebase-contactform/static/js/2.b1343e6d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6acd7807.js",
+    "static/js/2.b1343e6d.chunk.js",
+    "static/css/main.2c7a8183.chunk.css",
+    "static/js/main.c32bbb80.chunk.js"
+  ]
+}
