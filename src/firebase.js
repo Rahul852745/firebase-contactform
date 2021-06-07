@@ -11,6 +11,6 @@ var firebaseApp = firebase.initializeApp({
     appId: "1:200557195733:web:7018f4510791d955bbcd5c"
 });
 
-var db = firebase.firestore();
+var db = firebaseApp.firestore();
 
 export {db};
