@@ -1,6 +1,6 @@
 {
   "name": "firebase-contactform",
-  "homepages": "https://rahul852745.github.io/firebase-contactform/",
+  "homepage": "https://rahul852745.github.io/firebase-contactform/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
